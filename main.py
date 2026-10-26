@@ -1,0 +1,3 @@
+from Interface import *
+
+startingScreen()
